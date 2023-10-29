@@ -25,7 +25,7 @@ em{
 main {
 	clear: left;
 	a:hover, a:focus {font-style: italic;}
-	:root { --global-color-1:#800000; }
+	:root { --global-color-1:#4d0080; }
 }
 main h1 {
 	font-size: 150%;
